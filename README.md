@@ -1,5 +1,5 @@
-# template
+# .github
 
-[![license](https://img.shields.io/github/license/brycked/template)](LICENSE.md)
+[![license](https://img.shields.io/github/license/brycked/.github)](LICENSE.md)
 
-Metadata files for my projects.
+Metadata files for my profile.
